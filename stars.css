@@ -1,0 +1,27 @@
+body{
+    color:#003366;
+    font-family: arial tri-list;
+    background-image: url("starsbg.jpg");
+        margin:0px;
+}
+.big{
+    width:700px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    height:100%;
+}
+.top{
+    height:100px;
+    margin:0px 10px;
+}
+.bottom{
+    margin-left: 20px;
+}
+.red{
+    color:red;
+    letter-spacing: 5px;
+}
+.cool{
+    font-variant: small-caps;
+}
